@@ -1,2 +1,2 @@
 # Helloworld
-First mobile app
+First mobile app build using GIT hub
